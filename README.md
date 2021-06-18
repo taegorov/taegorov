@@ -2,6 +2,7 @@
 
 ### About Me
 
+[My LinkedIn](https://www.linkedin.com/in/timegorov/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taegorov&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
