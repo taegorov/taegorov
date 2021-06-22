@@ -1,4 +1,4 @@
-### Hi, I'm Tim
+### Tim Egorov
 
 ### About Me
 
